@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoudh7676" />
 </a>
 
-<h2>📞 &nbsp; Connct Me </h2>
+<h2>📞 &nbsp; Connect Me </h2>
 
    <a href="mailto:haselimasoud@gmail.com">
     	<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haselimasoud@gmail.com">
