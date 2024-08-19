@@ -24,8 +24,8 @@
 
 <h2>📞 &nbsp; Connect Me </h2>
 
-   <a href="mailto:haselimasoud@gmail.com">
-    	<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haselimasoud@gmail.com">
+   <a href="mailto:masoudh76h76@gmail.com">
+    	<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masoudh76h76@gmail.com">
   </a>
 
   <a href="https://www.linkedin.com/in/masoud-haseli-13b997210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
