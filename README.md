@@ -3,7 +3,7 @@
 <h3>👨‍💻 &nbsp; About Me</h3>
 
 - 🤔 &nbsp; frontEnd developer
-- 🌱 &nbsp; love the new challenges
+- 🌱 &nbsp; enjoying challenge's
 - ✍️ &nbsp; Coding is my amusement
 
 <h2>🔧 &nbsp; Tech Stack</h2>
